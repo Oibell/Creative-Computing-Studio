@@ -11,14 +11,10 @@
             "id": "e6b720e8bad0ac0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +156,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +184,11 @@
   },
   "active": "e6b720e8bad0ac0d",
   "lastOpenFiles": [
+    "Shell scripts.md",
+    "README.md",
     "Pasted image 20261012123242.png",
-    "README.md"
+    "Digital audio.md",
+    "web standards..md",
+    "Web standards.md"
   ]
 }
